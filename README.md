@@ -22,13 +22,14 @@ This project solves these challenges by enabling dynamic, user-driven analytics.
 
 ## ⚙️ How It Works
 
-1. User selects a business category
-2. Dataset is loaded dynamically
-3. Company list is auto-populated
-4. User selects a company
-5. Dashboard is filtered and displayed
+1. The user accesses the application via the portfolio interface
+2. Selects a business domain (Retail, SaaS, Fintech, Enterprise)
+3. The system dynamically retrieves and processes the corresponding dataset
+4. Company options are auto-generated based on the dataset
+5. Upon selection, the system constructs a filtered query
+6. The relevant Power BI dashboard is dynamically rendered
+7. Users explore insights through a structured, story-driven dashboard (Executive → Customer → Forecast)
 
----
 
 ## 🧩 Key Features
 
