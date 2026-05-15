@@ -109,7 +109,14 @@ streamlit run streamlit_app.py
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here)
+### 🏠 Executive Overview
+![Executive Overview](Screenshots/Executive_overview.png)
+
+### 📊 Customer & Business Insights
+![Customer & Business Insights](Screenshots/customer-business-insights.png)
+
+### ⚙️ Operational Efficiency
+![Operational Efficiency](Screenshots/operational-efficiency.png)
 
 ---
 
